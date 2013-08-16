@@ -4,5 +4,4 @@ hello
 worlds
 
 
-![Alt text](test.svg)
-<img src="test2.svg">
+![Alt text](http://raw.github.com/pixelpark/scg/gh-pages/test2.svg)
