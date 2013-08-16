@@ -1,8 +1,46 @@
 Documentation of the Smart City Guide
 =============================================
 
-Images were created with this [online SVG editor](http://svg-edit.googlecode.com/svn/branches/2.6/editor/svg-editor.html).
 
-worlds
+The Smart City Guide is a set of software services that create a user experience.
 
-![Alt text](https://pixelpark.github.com/scg/test2.svg)
+
+Software Stack
+==============
+
+As a supporter of the open web technologies the prefered stack comprises of
+
+  - HTML5
+  - CSS3
+  - JavaScript
+
+on the client side, and the MEAN stack on the server side:
+
+  - MongoDB
+  - Express
+  - AngularJS
+  - NodeJS
+
+
+
+
+Components
+==========
+
+Social Server
+-------------
+
+This component is responsible for social features like
+  
+  - user registration and sign-in
+  - user profile
+  - text status updates
+  - pictureupload status and status updates
+
+
+Signaling Server
+----------------
+
+For simple messaging purposes a signaling server based on socket.io will be used.
+
+
