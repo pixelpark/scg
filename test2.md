@@ -1,10 +1,8 @@
-hello
-=====
+Documentation of the Smart City Guide
+=============================================
+
+Images were created with this [online SVG editor](http://svg-edit.googlecode.com/svn/branches/2.6/editor/svg-editor.html).
 
 worlds
 
-![Alt text](http://potherca.github.io/StackOverflow/question-13808020-include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg)
-
 ![Alt text](https://pixelpark.github.com/scg/test2.svg)
-
-![Alt text](https://raw.github.com/potherca/StackOverflow/gh-pages/question-13808020-include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg)
