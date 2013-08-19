@@ -80,4 +80,4 @@ Installation
   t.b.d
 
 Since we are in a NodeJS based environment, we use the Node package manager npm.
-This reduces the effort to install the service by cloning th egit repositories and to do `npm install`
+This reduces the effort to install the service by cloning the git repositories and to do `npm install`
