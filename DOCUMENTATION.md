@@ -38,6 +38,7 @@ To support this we intend to support this exchangability by a set of instruction
 The fragmentation to several services is intended because we try to nurture exchangeability for different
 business models.
 
+![Alt text](https://pixelpark.github.com/scg/scheme2.svg)
 
 Social Network Enabler
 ------------------------
