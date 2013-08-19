@@ -50,7 +50,7 @@ This component is responsible for social features like
   - picture upload status and status updates
   - etc
 
-This software component will be the pump.io server: http://pump.io/
+This software component will be the pump.io server: http://pump.io/.
 This is a federated social server software.
 
 
@@ -78,3 +78,6 @@ Installation
 ------------
 
   t.b.d
+
+Since we are in a NodeJS based environment, we use the Node package manager npm.
+This reduces the effort to install the service by cloning th egit repositories and to do `npm install`
