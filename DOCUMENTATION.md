@@ -38,6 +38,7 @@ To support this we intend to support this exchangability by a set of instruction
 The fragmentation to several services is intended because we try to nurture exchangeability for different
 business models.
 
+![Alt text](https://pixelpark.github.com/scg/scheme1.svg)
 
 Social Network Enabler
 ------------------------
@@ -68,10 +69,9 @@ External Components
 
 External components are systems to provide Point Of Interest (P.O.I.) information and recommendation engines. Intended components are:
 
-  - Local Information SE (Orange)
-  - Local Information SE (Fokus)
-  - Recommendation Engine SE (Orange)
-  - Identity Management GE (UPM)
+  - Local Information (POIs)
+  - Video Streaming
+  - Identity Management (OAuth)
 
 
 Installation
