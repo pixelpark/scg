@@ -69,10 +69,9 @@ External Components
 
 External components are systems to provide Point Of Interest (P.O.I.) information and recommendation engines. Intended components are:
 
-  - Local Information SE (Orange)
-  - Local Information SE (Fokus)
-  - Recommendation Engine SE (Orange)
-  - Identity Management GE (UPM)
+  - Local Information (POIs)
+  - Video Streaming
+  - Identity Management (OAuth)
 
 
 Installation
