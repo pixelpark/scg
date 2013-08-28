@@ -54,6 +54,8 @@ This component is responsible for social features like
 This software component will be the pump.io server: http://pump.io/.
 This is a federated social server software.
 
+![Alt text](https://pixelpark.github.com/scg/scheme2.svg)
+
 
 
 Signaling Server
