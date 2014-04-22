@@ -22,6 +22,6 @@
   <path fill="none" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" id="svg_7"/>
   <text fill="#000000" stroke="#000" stroke-width="0" x="298.50026" y="248.00113" id="svg_10" font-size="12" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">Oauth</text>
   <line stroke="#000" fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="249.5" y1="257" x2="249.5" y2="277" id="svg_3" stroke-linejoin="null" stroke-linecap="null"/>
-  <text fill="#000000" stroke="#000" stroke-width="0" x="274.5" y="142" id="svg_9" font-size="12" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">Pump.io</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" x="274.5" y="142" id="svg_9" font-size="12" font-family="Helvetica, Arial, sans-serif" text-anchor="left" xml:space="preserve">pp-sync</text>
  </g>
 </svg>
